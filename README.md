@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media1.tenor.com/m/CNBPA_4Nd9kAAAAC/error.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://guias.donweb.com/wp-content/uploads/2022/10/comando-sudo-1.jpg" width="100%" height="auto"/></p>
 
 <h2 align="left">
   G'day folks
