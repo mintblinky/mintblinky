@@ -1,4 +1,4 @@
-![alien-bttv](https://github.com/user-attachments/assets/c24ef9d3-79f2-44ff-a4df-555ee77ccd1a)# <p align="center"><img src="https://i.gifer.com/76cI.gif" width="100%" height="auto"/></p>
+!# <p align="center"><img src="https://i.gifer.com/76cI.gif" width="100%" height="auto"/></p>
 
 <h2 align="left">
   G'day folks
