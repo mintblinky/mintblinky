@@ -2,7 +2,7 @@
 
 <h2 align="left">
   G'day folks
-  <img src="https://64.media.tumblr.com/4abad145cfeca409f3f76cac7e9393de/tumblr_mq50y4zfz71szhoyto1_400.gifv" width="25px"/>
+  <img src="https://i.gifer.com/76cI.gif" width="25px"/>
 </h2>
 
 I'm **Mxnt**, a hacker and Cybersecurity Researcher. I'm on my way to becoming a **Cybersecurity Specialist** and also a **Bug Bounty Hunter**!
