@@ -1,8 +1,8 @@
-# <p align="center"><img src="https://64.media.tumblr.com/76ed1daa419dc3c56e967bd60cea547e/f445735e967fef69-af/s540x810/b894a964d523d3989e0ff43cfd66b970f118061c.gifv" width="100%" height="auto"/></p>
+![alien-bttv](https://github.com/user-attachments/assets/c24ef9d3-79f2-44ff-a4df-555ee77ccd1a)# <p align="center"><img src="https://i.gifer.com/76cI.gif" width="100%" height="auto"/></p>
 
 <h2 align="left">
   G'day folks
-  <img src="https://i.gifer.com/76cI.gif" width="25px"/>
+  <img src="https://media1.tenor.com/m/yDk9Osl_1kkAAAAd/alien-bttv.gif" width="25px"/>
 </h2>
 
 I'm **Mxnt**, a hacker and Cybersecurity Researcher. I'm on my way to becoming a **Cybersecurity Specialist** and also a **Bug Bounty Hunter**!
